@@ -1,7 +1,3 @@
-Here is a unified, public-friendly `README.md` description for the main landing page of your GitHub repository, showcasing both the Windows and Android editions of the app:
-
----
-
 # 123Movies Multi-Platform Apps
 
 Welcome to the official repository for the **123Movies App**. Stream your favorite movies and TV series across all your devices. Get the native desktop experience on Windows or stream on the go with our lightweight Android application.
